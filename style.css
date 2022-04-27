@@ -18,7 +18,7 @@ body {
 }
 
 .cover {
-  background-image: url("/images/cover.png");
+  background-image: url("./images/cover.png");
   color: #fff;
   padding-top: 300px;
   background-position: bottom;
